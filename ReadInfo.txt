@@ -1,0 +1,15 @@
+Bowling alley project is depicting the similar behaviour what to see in bowling arena. It uses hardware pins state as input and generate scoreboard for the users.
+
+Capibilities:
+
+i)   Multiple players can play bowling game
+ii)  Set scoreboard based on pins state
+iii) Display messages such as Strike, Spare & Game Over
+iv)  Displaty Split symbol (S) in front of score if it's matches the pattern
+v)   Display framescores and total score as well
+vi)  Multiple instances of Bowling Alley can be generated to simulate multiple lanes in arena
+
+Assumptions:
+
+i)   Hardware input is showing correct pins state
+ii)  Foul will be indicated using seperate indicator
